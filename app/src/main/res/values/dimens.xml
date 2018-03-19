@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tamanho">200dp</dimen>
+    <dimen name="text_tamanho">24sp</dimen>
+    <dimen name="text_tamanhoMenor">20sp</dimen>
+</resources>
