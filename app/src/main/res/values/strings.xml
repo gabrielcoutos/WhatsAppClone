@@ -8,4 +8,9 @@
     <string name="text_validacao">Validação</string>
     <string name="text_validar">Foi enviado um msm com codigo de validação para o seu número</string>
     <string name="btn_validar">Validar</string>
+    <string name="hint_email">Digite seu email</string>
+    <string name="hint_senha">Sua senha</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="text_cadastro">Ainda nao possivel uma conta? Cadastre-se</string>
+    <string name="img_cadastr">cadastro</string>
 </resources>

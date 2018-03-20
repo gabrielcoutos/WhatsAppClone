@@ -3,4 +3,5 @@
     <dimen name="tamanho">200dp</dimen>
     <dimen name="text_tamanho">24sp</dimen>
     <dimen name="text_tamanhoMenor">20sp</dimen>
+    <dimen name="font_tamanhoCadastro">18sp</dimen>
 </resources>
